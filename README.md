@@ -1,2 +1,2 @@
-# face-rig-tools
-A collection of Python tools for facial rigging 
+# mayaTools
+A collection of Python tools for rigging and work flow improvement.
