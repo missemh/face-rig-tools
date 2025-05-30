@@ -11,7 +11,7 @@ This Python module provides a collection of useful functions designed to streaml
 
 ## Installation
 
-Simply copy the Python script into your Maya scripts directory or any accessible Python path in Maya. Then import it in your scripts or Maya Python tab:
+Copy the Python script into your Maya scripts directory or any accessible Python path in Maya. Then import it in your scripts or Maya Python tab:
 
 ```python
-import blendshape_utils  # Or whatever you name the file
+import blendshape_utils
